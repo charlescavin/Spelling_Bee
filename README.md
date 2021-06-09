@@ -1,4 +1,4 @@
-# fun
-Small projects to make life more interesting.
+# Spelling Bee
+A small project to make life more interesting.
 
-sbw.py and sbw_add.py are for the New York Times Spelling Bee games. A number of the words revealed in the "Yesterday's Answers" window are not only foreign to me but also to the large dictionary I use from http://www-personal.umich.edu/~jlawler/wordlist.html.
+The modules here are to establish and manage a word list that conforms to the solutions given in the New York Times Spelling Bee games. The starting point was a large word list from http://www-personal.umich.edu/~jlawler/wordlist.html. Given the letters provided for each game, find_words.py will find every word in the sb_wordlist.txt file that uses those letters, including the required letter. To keep the word list current, refine_word_list compares the solutions (given the next day) with what is in sb_wordlist.txt and adds or removes words as necessary.
