@@ -60,6 +60,14 @@ def main(days_ago=1):
 
     sb_wordlist_len_after_removal = write_sb_wordlist(sb_wordlist)
     print("\nNumber of words after removal:", sb_wordlist_len_after_removal)
+    net_change_wordlist = sb_wordlist_len_after_removal - sb_wordlist_len
+    if net_change_wordlist < 0:
+        change_text = "removed"
+    else:
+        change_text = "added"
+
+    txt = "\nNet number of words " + change_text + ": " + net_change_wordlist
+    print(txt)
 
 
 if __name__ == "__main__":

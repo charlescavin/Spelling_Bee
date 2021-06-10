@@ -1331,6 +1331,7 @@ afferent
 affettuoso
 affiance
 affianced
+affiancing
 affiant
 affiche
 afficher
@@ -2783,7 +2784,6 @@ aneuploidy
 aneurysm
 aneurysmal
 anew
-anfang
 anfractuosity
 anfractuous
 angas
@@ -9034,9 +9034,7 @@ caeteris
 caeur
 cafe
 cafeteria
-caff
 caffeine
-caffeinic
 caffeinism
 caftan
 cafuzo
@@ -19546,6 +19544,7 @@ efface
 effaceable
 effaced
 effacement
+effacing
 effect
 effective
 effectively
@@ -20284,7 +20283,6 @@ enervate
 enervated
 enervation
 enets
-enface
 enfant
 enfeeble
 enfeoffment
@@ -21899,11 +21897,9 @@ facetiae
 facetious
 facetiously
 facetiousness
-facia
 facial
 facially
 facias
-facie
 facile
 faciles
 facilis
@@ -21955,26 +21951,21 @@ fading
 faeces
 faedera
 faenum
-fagaceae
 fagales
 fagend
-fagging
 faggot
-fagin
 fagopyrum
 fagot
 fagots
 fagus
 fahrenheit
 faible
-faience
 fail
 failed
 failing
 faille
 fails
 failure
-faineance
 faineant
 faint
 fainthearted
@@ -22101,10 +22092,10 @@ fandango
 fandi
 fando
 fandom
-fane
 fanfare
 fanfaron
 fanfaronade
+fanfic
 fang
 fangs
 fanlight
@@ -22344,7 +22335,6 @@ febrifuge
 febrile
 february
 fecal
-fece
 fecerat
 feces
 fecit
@@ -22392,6 +22382,7 @@ feet
 feeze
 feign
 feigned
+feigning
 feijoa
 feint
 feisty
@@ -22458,9 +22449,7 @@ fendre
 feneration
 fenestra
 fenestral
-fenian
 fennel
-fennic
 fenny
 fenugreek
 fenusa
@@ -22579,7 +22568,6 @@ feverroot
 feverwort
 fewer
 fewness
-fianc
 fiance
 fiancee
 fiasco
@@ -22605,7 +22593,6 @@ fibrosis
 fibrositis
 fibrous
 fibula
-fica
 fichu
 fickle
 fickleness
@@ -22637,7 +22624,6 @@ fiducial
 fiduciary
 fidus
 fief
-fieff
 field
 fielder
 fieldfare
@@ -22659,6 +22645,7 @@ fiery
 fiesta
 fife
 fifer
+fifing
 fifteen
 fifteenth
 fifth
@@ -22779,7 +22766,6 @@ finesse
 finest
 finestill
 finetoned
-fing
 finger
 fingerboard
 fingered
@@ -22798,6 +22784,7 @@ finglefangle
 finial
 finical
 finikin
+fining
 finis
 finish
 finished
@@ -38754,7 +38741,6 @@ nazi
 nazism
 ndebele
 ndjamena
-neaf
 neanderthal
 neap
 neapolitan
@@ -38883,7 +38869,6 @@ negroid
 negrophobia
 negus
 nehru
-neif
 neigh
 neighbor
 neighborhood
