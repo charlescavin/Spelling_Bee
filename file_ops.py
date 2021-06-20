@@ -5,10 +5,6 @@ from get_sb_path import get_sb_path
 from utils import get_solve_date
 
 
-def get_sb_path():
-    return "/Users/cc/dev/fun/sb/"
-
-
 def get_sb_wordlist_filename():
     return get_sb_path() + "sb_wordlist.txt"
 
@@ -54,6 +50,7 @@ def read_sb_solution_wordlist(iso_date):
         with open(filename, newline="", encoding="utf-8-sig") as csvfile:
             csv_reader = csv.reader(csvfile, dialect="excel")
             for word in csv_reader:
+                print("word[0]:", word[0])
                 solution_wordlist.append(word[0])
     except:
         print("Could not open solution wordlist:", filename)
