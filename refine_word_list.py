@@ -29,7 +29,11 @@ def main(days_ago=1):
     print("\nNumber of words before additions:\t", sb_wordlist_len)
     sb_wordlist_len_after_adding = write_sb_wordlist(sb_wordlist)
     print("\nNumber of words after additions:\t", sb_wordlist_len_after_adding)
-    print("\nNumber of words added:\t", sb_wordlist_len_after_adding - sb_wordlist_len)
+    print(
+        "\nNumber of words added:\t",
+        sb_wordlist_len_after_adding - sb_wordlist_len,
+        "\n",
+    )
 
     # Second, remove words from the sb_wordlist that were found but not included
     # in the sb_solutions
