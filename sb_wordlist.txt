@@ -31,7 +31,6 @@ abattis
 abattoir
 abaxial
 abbacy
-abbatial
 abbatical
 abbatis
 abbess
@@ -101,7 +100,6 @@ abience
 abient
 abies
 abigail
-abiit
 abilities
 ability
 abiogenesis
@@ -122,7 +120,6 @@ ablactation
 ablated
 ablation
 ablative
-ablaut
 ablaze
 ablebodied
 ablegate
@@ -298,7 +295,6 @@ absurdly
 absurdness
 absurdum
 abudefduf
-abulia
 abulic
 abuna
 abundance
@@ -313,7 +309,6 @@ abusively
 abut
 abutilon
 abutment
-abuttal
 abutter
 abutting
 abuzz
@@ -1029,7 +1024,6 @@ admonition
 admonitive
 admonitory
 adnate
-adnexa
 adnexal
 adobe
 adobo
@@ -1194,7 +1188,6 @@ aegypiidae
 aegypius
 aegyptopithecus
 aeneas
-aeneid
 aeneus
 aeolian
 aeolic
@@ -1729,7 +1722,6 @@ albacore
 albania
 albanian
 albany
-albata
 albatrellus
 albatross
 albedo
@@ -1748,7 +1740,6 @@ albizzia
 albuca
 albuginaceae
 albugo
-albula
 albulidae
 album
 albumen
@@ -2942,7 +2933,7 @@ annex
 annexation
 annexational
 annexationist
-annexe
+annexed
 annexion
 annexment
 anniellidae
@@ -3416,6 +3407,7 @@ aphyllanthaceae
 aphyllanthes
 aphyllophorales
 aphyllous
+apian
 apiarian
 apiarist
 apiary
@@ -5252,7 +5244,6 @@ babism
 babist
 baboon
 baboonish
-babu
 baby
 babyhood
 babyish
@@ -5462,7 +5453,6 @@ balanoposthitis
 balanus
 balarama
 balas
-balata
 balbriggan
 balbucinate
 balbutiate
@@ -5901,7 +5891,6 @@ basting
 bastion
 bastioned
 bastnasite
-bata
 bataan
 bataille
 batboy
@@ -5912,7 +5901,6 @@ bateau
 bated
 batfish
 bath
-bathala
 bathe
 bathed
 bathetic
@@ -5945,8 +5933,6 @@ batophobia
 batrachoididae
 batrachomyomachia
 batrachoseps
-batta
-battalia
 battalion
 batten
 batter
@@ -7070,6 +7056,7 @@ bladdery
 blade
 bladed
 blague
+blah
 blahs
 blain
 blame
@@ -7135,13 +7122,13 @@ blastoporal
 blastopore
 blastospheric
 blastula
+blat
 blatancy
 blatant
 blatantly
 blather
 blathering
 blatherskite
-blatta
 blattella
 blatter
 blattidae
@@ -7303,11 +7290,13 @@ blossom
 blossomed
 blossoming
 blossoms
+blot
 blotch
 blotched
 blotches
 blotchy
 blotter
+blotto
 blouse
 blow
 blowback
@@ -7458,6 +7447,7 @@ bogartian
 bogey
 bogeying
 bogeyman
+bogeymen
 boggart
 bogging
 boggle
@@ -7512,6 +7502,7 @@ bolshevik
 bolshevism
 bolshy
 bolster
+bolt
 bolthead
 bolti
 boltonia
@@ -7646,6 +7637,7 @@ boom
 boomer
 boomerang
 booming
+boomlet
 boon
 boor
 boorish
@@ -8445,6 +8437,7 @@ brythonic
 bryum
 bubaline
 bubalus
+bubba
 bubble
 bubbliness
 bubbling
@@ -8538,9 +8531,7 @@ bulb
 bulbaceous
 bulbar
 bulbed
-bulbil
 bulbous
-bulbul
 bulgaria
 bulgarian
 bulge
@@ -8551,7 +8542,6 @@ bulkhead
 bulkiness
 bulky
 bull
-bulla
 bullace
 bullate
 bullbrier
@@ -15604,7 +15594,6 @@ damselfish
 damselfly
 damson
 damusque
-danaidae
 danaos
 danaus
 dance
@@ -15613,7 +15602,6 @@ dancer
 dancing
 dandelion
 dander
-dandie
 dandified
 dandily
 dandiprat
@@ -17399,6 +17387,7 @@ dimwit
 dinarchy
 dindustrie
 dine
+dined
 diner
 ding
 dingbat
@@ -20129,6 +20118,7 @@ endangered
 endear
 endearment
 endeavor
+ended
 endemic
 endenization
 endenizen
@@ -21510,7 +21500,6 @@ expeditious
 expel
 expend
 expendable
-expende
 expended
 expending
 expenditure
@@ -24703,6 +24692,7 @@ gemuthe
 gendarme
 gendarmerie
 gender
+gene
 genealogic
 genealogically
 genealogist
@@ -25056,7 +25046,6 @@ girlhood
 girlish
 girlishly
 girlishness
-giro
 girru
 girt
 girth
@@ -25325,7 +25314,6 @@ gnetum
 gnome
 gnomic
 gnomish
-gnomon
 gnosis
 gnostic
 gnosticism
@@ -25393,7 +25381,6 @@ goggle
 goggleeyed
 goggleeyes
 goggles
-gogo
 going
 goings
 goiter
@@ -25478,6 +25465,7 @@ googly
 googol
 gook
 goon
+goony
 goop
 goosander
 goose
@@ -25502,6 +25490,7 @@ gorgeously
 gorgeousness
 gorgerin
 gorget
+gorging
 gorgon
 gorgonacea
 gorgonian
@@ -25509,6 +25498,7 @@ gorgonocephalus
 gorgons
 gorgonzola
 gorilla
+goring
 gorki
 gormandize
 gormandizing
@@ -25538,6 +25528,7 @@ gotterdammerung
 gouache
 gouda
 gouge
+gouging
 goulash
 gourd
 gourde
@@ -25949,6 +25940,7 @@ grommet
 gromwell
 groom
 groomed
+grooming
 groomsman
 groove
 grooved
@@ -27581,6 +27573,7 @@ highlander
 highlands
 highlight
 highlighted
+highlighting
 highlow
 highly
 highlywrought
@@ -27601,7 +27594,6 @@ highway
 highwayman
 highways
 highwrought
-higi
 hijack
 hijacking
 hike
@@ -27612,6 +27604,7 @@ hilariously
 hilarity
 hill
 hillbilly
+hilling
 hillock
 hills
 hillside
@@ -27650,8 +27643,10 @@ hinduism
 hindustan
 hindustani
 hinge
+hinging
 hinny
 hint
+hinting
 hipbone
 hipflask
 hipless
@@ -27683,6 +27678,7 @@ hirdygirdy
 hire
 hired
 hireling
+hiring
 hiroshima
 hirsute
 hirsuteness
@@ -28887,6 +28883,7 @@ ignorantness
 ignoratio
 ignore
 ignored
+ignoring
 ignoscito
 ignotius
 ignotum
@@ -29824,7 +29821,6 @@ indelicate
 indemnification
 indemnify
 indemnity
-indene
 indent
 indentation
 indenture
@@ -29843,6 +29839,7 @@ indevotion
 indevout
 index
 indexation
+indexed
 indexer
 indexical
 indexing
@@ -29864,6 +29861,7 @@ indices
 indicolite
 indict
 indictment
+indie
 indifference
 indifferent
 indifferently
@@ -33437,7 +33435,6 @@ lethargically
 lethargy
 lethean
 lethiferous
-leto
 letoile
 lets
 letter
@@ -33874,6 +33871,7 @@ lipotype
 lipotyphla
 lipped
 lippitude
+lippy
 lipreading
 lips
 lipstick
@@ -34203,7 +34201,6 @@ lomariopsidaceae
 lomatia
 lombard
 lombardy
-loment
 lomogramma
 lonas
 lonchocarpus
@@ -34343,7 +34340,6 @@ loth
 lothario
 loti
 lotion
-loto
 lots
 lottery
 lotto
@@ -34430,7 +34426,6 @@ loyaute
 lozenge
 luanda
 luau
-luba
 lubbard
 lubber
 lubberly
@@ -36202,7 +36197,6 @@ mendicant
 mendicate
 mendicity
 mending
-mene
 menhaden
 menhir
 menial
@@ -36908,6 +36902,7 @@ minimize
 minimized
 minimum
 mining
+minion
 minis
 minister
 ministerial
@@ -36935,6 +36930,7 @@ minoan
 minocycline
 minor
 minore
+minoring
 minorites
 minority
 minos
@@ -36970,10 +36966,10 @@ mirage
 mire
 miri
 miridae
-miro
 mirounga
 mirror
 mirrored
+mirroring
 mirrorlike
 mirrors
 mirth
@@ -37462,11 +37458,10 @@ moneygrubber
 moneyless
 moneymaker
 moneymaking
+moneymen
 moneys
 moneywort
-mong
 monger
-mongo
 mongol
 mongolia
 mongolian
@@ -37542,10 +37537,10 @@ monomaniac
 monomaniacal
 monomer
 monometallic
-monomorium
 monomorphemic
 mononuclear
 mononucleosis
+mononym
 monophonic
 monoplane
 monopolist
@@ -37627,6 +37622,7 @@ moodish
 moodishness
 moods
 moody
+mooing
 moola
 moon
 moonbeam
@@ -37635,6 +37631,7 @@ mooneyed
 moonfish
 moonflower
 moonglade
+mooning
 moonless
 moonlight
 moonlike
@@ -37646,6 +37643,7 @@ moonstone
 moonstruck
 moonwalk
 moonwort
+moony
 moor
 moorcock
 moore
@@ -37715,18 +37713,16 @@ morganite
 morgantown
 morgen
 morgue
-mori
 moribund
 morient
-morion
 morisco
-mormon
 mormonism
 morn
 mornful
 morning
 moroccan
 morocco
+moron
 morone
 moronic
 moronity
@@ -37841,6 +37837,7 @@ motorized
 motorman
 motory
 mots
+mottle
 mottled
 mottling
 motto
@@ -38105,8 +38102,6 @@ munshi
 muntiacus
 muntingia
 muntjac
-muon
-muori
 muove
 muraenidae
 mural
@@ -38134,7 +38129,6 @@ murrain
 murray
 murre
 murrey
-murrion
 murus
 musa
 musaceae
@@ -38414,6 +38408,7 @@ naevose
 nagasaki
 nageia
 nager
+naiad
 naiadaceae
 naiadales
 naiant
@@ -38459,6 +38454,7 @@ nancere
 nandrolone
 nankeen
 nanking
+nannied
 nanny
 nanogram
 nanometer
@@ -38696,6 +38692,8 @@ nectarine
 nectarious
 nectary
 necturus
+need
+needed
 needful
 needfulness
 neediness
@@ -38711,7 +38709,6 @@ needlework
 needleworker
 needs
 needy
-neem
 neencephalon
 neer
 neerdowell
@@ -38772,10 +38769,9 @@ nemertea
 nemesis
 nemine
 neminem
-nemo
 nemophila
+nene
 nenets
-nenia
 neoceratodus
 neoclassic
 neoclassicism
@@ -38843,7 +38839,6 @@ nephrops
 nephropsidae
 nephthys
 nephthytis
-nepidae
 nepos
 nepotism
 nepotist
@@ -39075,7 +39070,6 @@ nigrescent
 nigrification
 nigroporus
 nihau
-nihil
 nihilism
 nihilist
 nihilistic
@@ -39103,7 +39097,6 @@ nincompoop
 nine
 ninefold
 ninepence
-ninepenny
 ninepin
 ninepins
 nineteen
@@ -39125,10 +39118,12 @@ niobite
 niobium
 niobrara
 nios
+nipped
 nipperkin
 nippers
 nipping
 nipple
+nippy
 nirvana
 nisan
 nisi
@@ -39162,6 +39157,7 @@ nits
 nitwitted
 niveous
 nivose
+nixed
 nixon
 nizam
 nizy
@@ -39218,7 +39214,6 @@ nodulose
 nodus
 noel
 noggin
-nogging
 noir
 noire
 noise
@@ -39543,7 +39538,6 @@ nontransferable
 nontranslational
 nontropical
 nonturbulent
-nonum
 nonuniformity
 nonuple
 nonvenomous
@@ -39563,7 +39557,6 @@ noodlehead
 nook
 noon
 noonday
-nooning
 noontide
 noontime
 nooscopic
@@ -39591,7 +39584,6 @@ normandie
 normative
 normotensive
 normothermia
-norn
 nornal
 north
 northbound
@@ -40278,7 +40270,6 @@ ogcocephalidae
 ogham
 ogle
 ogler
-ogni
 ogre
 ogress
 ohio
@@ -40382,6 +40373,7 @@ ombudsman
 omdurman
 omega
 omelet
+omelette
 omen
 omentum
 omicron
@@ -40393,8 +40385,6 @@ omission
 omit
 omitted
 ommastrephes
-omne
-omnem
 omnes
 omnia
 omnialatin
@@ -40415,7 +40405,6 @@ omnipresent
 omnis
 omniscience
 omniscient
-omnium
 omnivore
 omnivorous
 omomyid
@@ -40472,7 +40461,6 @@ onomatopoeic
 onondaga
 ononis
 onopordum
-onor
 onosmodium
 onrush
 onself
@@ -40808,7 +40796,6 @@ originate
 origination
 originator
 origine
-origo
 oriolidae
 oriolus
 orions
@@ -41556,6 +41543,7 @@ pahautea
 paid
 paillard
 paillasse
+pain
 pained
 painful
 painfully
@@ -41732,7 +41720,6 @@ panamanian
 panamerican
 pananquin
 panatela
-panax
 pancake
 panchromatic
 pancreas
@@ -41783,6 +41770,7 @@ panicled
 paniculate
 panicum
 panier
+panini
 panipat
 panned
 pannel
@@ -41796,7 +41784,6 @@ panoptic
 panopticon
 panorama
 panoramic
-panpipe
 pansophy
 pansy
 pant
@@ -42604,7 +42591,6 @@ pegomancy
 pegs
 peice
 peindre
-peine
 peines
 peirce
 pejoratively
@@ -42670,7 +42656,6 @@ pendragon
 pendulate
 pendulous
 pendulum
-peneidae
 penelope
 penetrability
 penetrable
@@ -42706,7 +42691,6 @@ pennatula
 pennatulidae
 penne
 penned
-penni
 penniless
 pennisetum
 pennoncel
@@ -42759,7 +42743,6 @@ pentecostal
 pentecostalism
 penthesilean
 penthouse
-pentile
 pentlandite
 pentode
 pentose
@@ -43740,9 +43723,7 @@ pieris
 piernas
 pierre
 pierrot
-piet
 pieta
-piete
 pietism
 pietist
 pietistic
@@ -43860,6 +43841,7 @@ pine
 pineal
 pineapple
 pinecone
+pined
 pinery
 pinesap
 pinetum
@@ -43889,9 +43871,10 @@ pinnatisect
 pinned
 pinner
 pinning
-pinnipedia
+pinniped
 pinnotheres
 pinnotheridae
+pinny
 pinochle
 pinon
 pinopsida
@@ -43903,7 +43886,6 @@ pinscher
 pinstriped
 pint
 pintail
-pintle
 pinto
 pinus
 pinwheel
@@ -43927,6 +43909,7 @@ piperales
 piperin
 piperocaine
 pipes
+pipet
 pipette
 pipewort
 pipidae
@@ -43935,6 +43918,7 @@ pipistrelle
 pipistrellus
 pipit
 pipkin
+pippin
 pipra
 pipridae
 pipsissewa
@@ -44363,7 +44347,6 @@ plight
 plighted
 plimsoll
 plinth
-pliny
 pliocene
 ploceidae
 ploceus
@@ -49410,6 +49393,7 @@ rightful
 rightfully
 righthand
 righthanded
+righting
 rightish
 rightist
 rightly
@@ -49684,6 +49668,7 @@ roomage
 roomette
 roomful
 roomily
+rooming
 roommate
 rooms
 roomy
@@ -49969,6 +49954,7 @@ rummy
 rumohra
 rumor
 rumored
+rumoring
 rump
 rumpelstiltskin
 rumple
@@ -56934,9 +56920,8 @@ tabernacle
 tabernaemontana
 tabes
 tabetic
-tabi
 tabid
-tabita
+tabla
 tablature
 table
 tableau
@@ -56962,7 +56947,6 @@ tabouret
 tabourine
 tabret
 tabriz
-tabula
 tabular
 tabulate
 tabulation
@@ -57467,6 +57451,7 @@ teen
 teens
 teensy
 teeny
+teepee
 teeter
 teeth
 teethe
@@ -57531,6 +57516,7 @@ telescopic
 telescopically
 telesm
 telethermometer
+teletype
 teletypewriter
 televangelist
 television
@@ -57671,7 +57657,6 @@ tenoroon
 tenorroutine
 tenosynovitis
 tenpence
-tenpenny
 tenpin
 tenpins
 tenpounder
@@ -58172,6 +58157,7 @@ thinking
 thinks
 thinly
 thinness
+thinning
 thinskinned
 thiobacillus
 thiobacteria
@@ -58456,6 +58442,7 @@ tiebeam
 tiebreaker
 tied
 tienoscope
+tiepin
 tier
 tierce
 tiercel
@@ -58582,6 +58569,7 @@ tintack
 tintamarre
 tinted
 tintinnabulary
+tintype
 tinware
 tiny
 tipcat
@@ -58589,6 +58577,7 @@ tipped
 tippet
 tipple
 tippler
+tippy
 tippybob
 tips
 tipstaff
@@ -58751,7 +58740,6 @@ tomalley
 tomatillo
 tomato
 tomb
-tombe
 tomber
 tombigbee
 tombola
@@ -61687,6 +61675,8 @@ unmodified
 unmodulated
 unmolested
 unmoneyed
+unmoor
+unmooring
 unmoral
 unmotivated
 unmotorized
@@ -65214,7 +65204,6 @@ xerophyllum
 xerophytic
 xerox
 xhosa
-xian
 xiphias
 xiphiidae
 xiphoid
@@ -65319,7 +65308,6 @@ yellowtail
 yellowthroat
 yellowwood
 yelp
-yemen
 yemeni
 yenisei
 yeniseian
@@ -65340,6 +65328,9 @@ yield
 yieldance
 yielding
 yieldingness
+yipe
+yippee
+yippie
 ymir
 yodel
 yodeling
